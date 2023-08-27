@@ -15,7 +15,7 @@
 <div align="center" Style="display: inline_block">
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eloizalencar&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eloizalencar&hide_progress=true_icons=true&theme=radical)
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
