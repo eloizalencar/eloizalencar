@@ -1,4 +1,10 @@
-### Olá! Eu sou Eloiza Lopes 💕
+</div>
+<div align="center" Style="display: inline_block">
+<div align="center">
+  
+###  Olá! Eu sou Eloiza Lopes 💕
+
+###
 
 </div>
 <div align="center" Style="display: inline_block">
